@@ -13,12 +13,12 @@
          ;lxkl.                                                     :dl:.
         .coxl,                                                      ':cc,
         ;:lo;.                                                      .':c:
-        ;clo:                 0ri0n.no-ip.biz:4000                  .':lc.
+        ;clo:                                                       .':lc.
         :lox:                                                       .,coc
         ;odx,.                                                      .:lo,
         .loo,.                                                      .:c:.
          cocc'                                                     .;ll,
-         .:cc:.   .           2014 (c) BuRZuM-iSHi            .... .;;'
+         .:cc:.   .          2014-2015 (c) BuRZuM-iSHi         .... .;;'
           .:o,..',;,.                                       .''..cc'...
          ..',:oOOo;;;,.                                 ...'....':oOOxc,.
         .co0NXOoool:,;;'',.                             ......',;lO0kxc,
@@ -36,4 +36,3 @@ Código fonte da páxina en GitHub pertencente a ^O Reino das Tebras^
 
 Lendas do Libro das Invasións Irlandesas.
 
-Basado no servidor Smaug1.8b de "Realms Of Despair"
