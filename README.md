@@ -18,7 +18,7 @@
         ;odx,.                                                      .:lo,
         .loo,.                                                      .:c:.
          cocc'                                                     .;ll,
-         .:cc:.   .          2014-2015 (c) BuRZuM-iSHi         .... .;;'
+         .:cc:.   .          2013-2015 (c) BuRZuM-iSHi         .... .;;'
           .:o,..',;,.                                       .''..cc'...
          ..',:oOOo;;;,.                                 ...'....':oOOxc,.
         .co0NXOoool:,;;'',.                             ......',;lO0kxc,
