@@ -1318,9 +1318,10 @@
 /*********************************************************************************/
 /* Footer                                                                        */
 /*********************************************************************************/
-	
+
 	#footer {
-		position: relative;
+		position: fixed;
+		z-index: 15000;
 		height: 7em;
 		line-height: 3em;
 		margin: 1.5em 0em 0em 0em;
@@ -1328,6 +1329,7 @@
 		color: #eee;
 		overflow: hidden;
 		font-size: 10pt;
+		box-shadow: 0 0 0.15em 0 rgba(0,0,0,0.1);
 		opacity: 0.8;
 	}
 
