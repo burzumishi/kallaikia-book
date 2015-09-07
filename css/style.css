@@ -76,7 +76,7 @@
 	
 	h3 {
 		font-size: 2.5em;
-		line-height: 1.25em;
+		line-height: 1em;
 	}
 	
 	h4 {
@@ -166,8 +166,8 @@
 
   #slogan {
 			display: block;
-      witdh: 40%;
-	  	margin: 0em 30% 0em 30%;
+      witdh: 50%;
+	  	margin: -0.2em 25% 0em 25%;
       color: white;
   }
 
