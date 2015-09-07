@@ -136,6 +136,10 @@
 		margin-bottom: 1em;
 	}
 
+  p img {
+    display: block;
+  }
+
 	header {
 		margin-bottom: 20px;
 	}
@@ -537,7 +541,7 @@
 			}
 
       .box img {
-      display: block;
+       display: block;
       }
 
 	/* Main */
