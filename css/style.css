@@ -147,7 +147,9 @@
 		}
 		
     header h3 {
+  		opacity: 0.8;
 			display: block;
+	  	margin: 0.1em 50% 0.1em 50%;
       color: white;
     }
 
@@ -158,6 +160,13 @@
 	br.clear {
 		clear: both;
 	}
+
+	#kallaikia {
+		opacity: 0.8;
+		width: 40%;
+		margin: 0.3em 30% 0.1em 30%;
+	}
+
 
 	/* Sections/Articles */
 	
@@ -553,12 +562,6 @@
 					text-align: center;
 				}
 
-				#kallaikia {
-					opacity: 0.8;
-					width: 40%;
-					margin: 0.3em 30% 0.1em 30%;
-				}
-				
 				.main.style1 .content {
 					-moz-transition: all 1s ease;
 					-webkit-transition: all 1s ease;
