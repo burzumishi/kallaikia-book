@@ -168,8 +168,8 @@
   #slogan {
     z-index: 10000;
 		display: block;
-    /* width: 50%; */
-		margin: -0.3em 50% 0em 50%;
+    width: 30%;
+		margin: -0.3em 35% 0em 35%;
     color: white;
   }
 
@@ -568,6 +568,7 @@
 				}
 
 				.main.style1 .content {
+      		opacity: 0.8;
 					-moz-transition: all 1s ease;
 					-webkit-transition: all 1s ease;
 					-o-transition: all 1s ease;
