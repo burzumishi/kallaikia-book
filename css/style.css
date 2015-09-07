@@ -545,13 +545,12 @@
 				}
 
 				#kallaikia {
+					opacity: 0.8;
 					width: 50%;
-					margin: 1.5em 15% 0.3em 15%;
+					margin: 1.5em 25% 0.3em 25%;
 				}
 				
 				.main.style1 .content {
-					opacity: 0.8;
-
 					-moz-transition: all 1s ease;
 					-webkit-transition: all 1s ease;
 					-o-transition: all 1s ease;
