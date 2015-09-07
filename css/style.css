@@ -148,9 +148,6 @@
 		
     header h3 {
   		opacity: 0.8;
-			display: block;
-	  	margin: 0.1em 50% 0.1em 50%;
-      color: white;
     }
 
 	footer {
@@ -163,10 +160,15 @@
 
 	#kallaikia {
 		opacity: 0.8;
-		width: 40%;
-		margin: 0.3em 30% 0.1em 30%;
+		width: 30%;
+		margin: 0.3em 35% 0.1em 35%;
 	}
 
+  #slogan {
+			display: block;
+	  	margin: 0.1em 40% 0.1em 40%;
+      color: white;
+  }
 
 	/* Sections/Articles */
 	
