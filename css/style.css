@@ -161,12 +161,13 @@
 	#kallaikia {
 		opacity: 0.8;
 		width: 30%;
-		margin: 0.3em 35% 0.1em 35%;
+		margin: 0.3em 35% 0em 35%;
 	}
 
   #slogan {
 			display: block;
-	  	margin: 0.1em 40% 0.1em 40%;
+      witdh: 30%;
+	  	margin: 0em 35% 0em 35%;
       color: white;
   }
 
