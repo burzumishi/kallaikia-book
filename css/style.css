@@ -146,6 +146,11 @@
 			padding: 0 0 0.5em 0;
 		}
 		
+    header h3 {
+			display: block;
+      color: white;
+    }
+
 	footer {
 		margin-top: 1em;
 	}
@@ -516,6 +521,10 @@
 			.box.style2 a:hover {
 				color: #ddd;
 			}
+
+      .box img {
+      display: block;
+      }
 
 	/* Main */
 		
